@@ -18,6 +18,7 @@ public class T529 {
         hashMap.put("不只Java-3", 3);
         hashMap.put("不只Java-3", 4);
         hashMap.put("不只Java-3", 5);
+        hashMap.put("不只Java-3", 6);
 
         Set set = hashMap.entrySet();
         Iterator iterator = set.iterator();
